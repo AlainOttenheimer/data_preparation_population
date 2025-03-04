@@ -14,6 +14,6 @@ Le traitement consiste à :
 
 - Après avoir télécharger les dossiers et fichiers associés en locale, le script ipynb fonctionne sans modification.
 
-
+Exemple de visualisation 
 ![Exemple de visualisation](images/pyramide_tls.PNG)
 
