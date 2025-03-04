@@ -14,7 +14,7 @@ Le traitement consiste à :
 - créer un fichier csv charger dans l'application observable [population-de-villes-doccitanie-en-2021](https://observablehq.com/@tdvz/population-de-villes-doccitanie-en-2021)
 
 
-<img height="500" src="https://github.com/AlainOttenheimer/data_prep_population/pyramide_tls.PNG" style="border:0;box-shadow:none"><br>
+![Pyramide](images/pyramide_tls.PNG)
 
 
 - Placer le Le fichier .ipynb dans répertoire 
